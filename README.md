@@ -44,7 +44,7 @@
 
 - `PUSHPLUS_TOKEN`
 
-### 3. 启用 GitHub Actions
+### 3. 启用 GitHub Actio ns
 
 进入仓库的 `Actions` 页面，启用工作流。
 
